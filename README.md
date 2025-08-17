@@ -90,3 +90,6 @@ Ce projet illustre ma capacité à :
 - Définir et construire des KPIs pertinents.  
 - Concevoir un **dashboard Power BI structuré et interactif**.  
 
+## Accéder au fichier Power BI
+Le fichier complet du dashboard Power BI est disponible en téléchargement via Google Drive :  
+[Télécharger le fichier Power BI (.pbix)] https://drive.google.com/file/d/11ERF0Gu16i_O-0gxjsoEJpnhOgbXdiVf/view?usp=sharing
